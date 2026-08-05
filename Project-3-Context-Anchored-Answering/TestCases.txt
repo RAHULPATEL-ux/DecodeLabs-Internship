@@ -1,0 +1,29 @@
+Test Case 1
+
+Question:
+How many days of paid leave do employees receive?
+
+Expected Answer:
+20 days
+[Para 2]
+
+----------------------------------
+
+Test Case 2
+
+Question:
+When do employees receive medical insurance?
+
+Expected Answer:
+After six months
+[Para 3]
+
+----------------------------------
+
+Test Case 3
+
+Question:
+What is the retirement age?
+
+Expected Answer:
+Information Not Found

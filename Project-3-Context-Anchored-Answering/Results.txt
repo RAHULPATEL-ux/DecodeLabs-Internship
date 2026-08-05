@@ -1,0 +1,40 @@
+Project Results
+
+Test Case 1
+PASS
+
+Question:
+How many days of paid leave do employees receive?
+
+Answer:
+20 days
+[Para 2]
+
+----------------------------------
+
+Test Case 2
+PASS
+
+Question:
+When do employees receive medical insurance?
+
+Answer:
+After six months
+[Para 3]
+
+----------------------------------
+
+Test Case 3
+PASS
+
+Question:
+What is the retirement age?
+
+Answer:
+Information Not Found
+
+----------------------------------
+
+Overall Accuracy: 100%
+
+The prompt answered only from the provided context and correctly returned "Information Not Found" when the answer was absent.
