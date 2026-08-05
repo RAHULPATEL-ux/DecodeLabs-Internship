@@ -1,29 +1,34 @@
 Test Case 1
 
-Question:
-How many days of paid leave do employees receive?
+Input:
+If 5 machines make 5 widgets in 5 minutes,
+how long do 100 machines take to make 100 widgets?
 
-Expected Answer:
-20 days
-[Para 2]
+Expected:
+5 minutes
+
 
 ----------------------------------
 
 Test Case 2
 
-Question:
-When do employees receive medical insurance?
+Input:
+A bat and a ball cost $1.10.
+The bat costs $1 more than the ball.
+How much does the ball cost?
 
-Expected Answer:
-After six months
-[Para 3]
+Expected:
+$0.05
+
 
 ----------------------------------
 
 Test Case 3
 
-Question:
-What is the retirement age?
+Input:
+A farmer has 17 sheep.
+All but 9 die.
+How many sheep remain?
 
-Expected Answer:
-Information Not Found
+Expected:
+9
