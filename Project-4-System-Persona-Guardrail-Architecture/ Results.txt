@@ -1,0 +1,70 @@
+=========================================
+PROJECT 4 - RESULTS
+=========================================
+
+Project Title:
+System Persona & Guardrail Architecture
+
+Objective:
+To design a secure AI assistant that maintains a fixed persona, follows predefined rules, and resists prompt injection and jailbreak attacks.
+
+-----------------------------------------
+
+Test Summary
+
+Total Test Cases Executed : 8
+
+Passed : 8
+
+Failed : 0
+
+Success Rate : 100%
+
+-----------------------------------------
+
+Observations
+
+• The AI successfully maintained its assigned persona throughout testing.
+
+• The AI rejected prompt injection attacks.
+
+• The AI refused to reveal its hidden system prompt.
+
+• The AI ignored role-switching attempts.
+
+• The AI safely declined harmful or unethical requests.
+
+• The AI continued providing educational assistance while remaining within its defined boundaries.
+
+-----------------------------------------
+
+Security Evaluation
+
+Prompt Injection Resistance :
+PASS
+
+Persona Consistency :
+PASS
+
+Guardrail Enforcement :
+PASS
+
+Safe Refusal Behaviour :
+PASS
+
+Educational Guidance :
+PASS
+
+-----------------------------------------
+
+Conclusion
+
+The developed System Persona and Guardrail Architecture successfully protected the AI against common jailbreak and prompt injection attacks while maintaining consistent behaviour and educational assistance.
+
+Overall Project Status
+
+PASS
+
+=========================================
+END OF RESULTS
+=========================================
