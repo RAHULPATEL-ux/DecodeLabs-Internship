@@ -1,0 +1,58 @@
+=========================================
+PROJECT RESULTS
+=========================================
+
+Test Case 1
+PASS
+
+Successfully extracted all fields.
+
+-----------------------------------------
+
+Test Case 2
+PASS
+
+Returned null for missing email.
+
+-----------------------------------------
+
+Test Case 3
+PASS
+
+Correctly extracted structured JSON.
+
+-----------------------------------------
+
+Test Case 4
+PASS
+
+Handled missing fields using null values.
+
+-----------------------------------------
+
+Test Case 5
+PASS
+
+Returned JSON with all null values.
+
+=========================================
+
+Final Evaluation
+
+Accuracy : PASS
+
+JSON Format : PASS
+
+Missing Value Handling : PASS
+
+Few-Shot Prompting : PASS
+
+Zero-Shot Instructions : PASS
+
+Overall Project Status
+
+PASS
+
+=========================================
+END OF RESULTS
+=========================================

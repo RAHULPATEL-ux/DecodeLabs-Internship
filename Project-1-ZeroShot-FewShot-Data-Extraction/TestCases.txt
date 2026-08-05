@@ -1,0 +1,102 @@
+=========================
+TEST CASE 1
+=========================
+
+Hello,
+
+I'm Rahul Patel.
+
+Email:
+rahul@gmail.com
+
+Ticket ID:
+TK1023
+
+Internet not working.
+
+Priority:
+High
+
+Status:
+Open
+
+--------------------------------
+
+Expected
+
+Customer Name
+Rahul Patel
+
+=========================
+TEST CASE 2
+=========================
+
+Hello,
+
+My name is Sneha.
+
+Ticket:
+TK3321
+
+Laptop battery drains quickly.
+
+Priority:
+Medium
+
+Status:
+Closed
+
+--------------------------------
+
+Expected
+
+Email should be null.
+
+=========================
+TEST CASE 3
+=========================
+
+Customer:
+John
+
+Email:
+john@gmail.com
+
+Ticket:
+TK8821
+
+Unable to login.
+
+Priority:
+Low
+
+Status:
+In Progress
+
+=========================
+TEST CASE 4
+=========================
+
+Customer:
+Kiran
+
+Printer not working.
+
+Status:
+Open
+
+Expected
+
+Ticket ID = null
+Priority = null
+Email = null
+
+=========================
+TEST CASE 5
+=========================
+
+Random paragraph without any useful information.
+
+Expected
+
+All values should be null.
