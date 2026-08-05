@@ -1,8 +1,0 @@
-[Para 1]
-Employees work 8 hours per day.
-
-[Para 2]
-Employees receive 20 days of paid leave after completing one year of service.
-
-[Para 3]
-Employees receive medical insurance after six months of employment.
