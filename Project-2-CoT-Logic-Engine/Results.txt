@@ -1,40 +1,46 @@
 Project Results
 
-Test Case 1
+Test 1
+Input:
+5 machines -> 5 widgets -> 5 minutes
+
+Output:
+5 minutes
+
+Status:
 PASS
-
-Question:
-How many days of paid leave do employees receive?
-
-Answer:
-20 days
-[Para 2]
 
 ----------------------------------
 
-Test Case 2
+Test 2
+
+Input:
+Bat and Ball Problem
+
+Output:
+$0.05
+
+Status:
 PASS
-
-Question:
-When do employees receive medical insurance?
-
-Answer:
-After six months
-[Para 3]
 
 ----------------------------------
 
-Test Case 3
+Test 3
+
+Input:
+17 sheep, all but 9 die
+
+Output:
+9
+
+Status:
 PASS
-
-Question:
-What is the retirement age?
-
-Answer:
-Information Not Found
 
 ----------------------------------
 
-Overall Accuracy: 100%
+Overall Result
 
-The prompt answered only from the provided context and correctly returned "Information Not Found" when the answer was absent.
+Accuracy: 100%
+
+The prompt successfully solved all reasoning problems using
+step-by-step reasoning and self-review.
